@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: docHandler4AISDK
+Version: 0.0.1
+Summary: SDK for docHandler4AI
+Author: Mohamed Hasnaoui
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: httpx

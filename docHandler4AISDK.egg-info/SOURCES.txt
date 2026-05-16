@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.py
+docHandler4AISDK/__init__.py
+docHandler4AISDK/client.py
+docHandler4AISDK/exceptions.py
+docHandler4AISDK/models.py
+docHandler4AISDK/pdf.py
+docHandler4AISDK.egg-info/PKG-INFO
+docHandler4AISDK.egg-info/SOURCES.txt
+docHandler4AISDK.egg-info/dependency_links.txt
+docHandler4AISDK.egg-info/requires.txt
+docHandler4AISDK.egg-info/top_level.txt
